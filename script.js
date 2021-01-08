@@ -87,7 +87,7 @@ $(document).ready(function () {
                     console.log(rentalList);
 
                     //ajax request for the local bars and restaurants through zomatoAPI
-                    var zomatoAPIKey = "ea6e879245c6df1e9d1d3c63e8cd78a1"
+                    var zomatoAPIKey = "ac75b1dbd8746cc0a06c031b719e94f3"
 
                     const zomatoQuery = {
                         "async": true,
@@ -95,7 +95,7 @@ $(document).ready(function () {
                         "url": "https://developers.zomato.com/api/v2.1/geocode?lat=" + lat + "&lon=" + lon,
                         "method": "POST",
                         "headers": {
-                            "user-key": "ea6e879245c6df1e9d1d3c63e8cd78a1"
+                            "user-key": "ac75b1dbd8746cc0a06c031b719e94f3"
                         },
                         "data": {
                             "accessToken": zomatoAPIKey
