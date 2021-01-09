@@ -3,13 +3,13 @@
 Due to Gabe 1.9.2021
 
 
-## Group Name: Group6 
+## Group Name: Group 6 
 ## Project Description-
 Recreation Maps 
 
 The most enjoyable and affordable application for you to find your dream home. 
 
-Through the use of three APIs, Google Maps, Realty Mole's property API, Zomato, Recreation Maps allows individuals to find the location of their next home. The search criterion includes the property’s location, affordability, and the location’s nightlife popularity index, all in one search.
+Through the use of three API platforms, Google Maps, Realty Mole's property API, Zomato, Recreation Maps allows individuals to find the location of their next home. The search criterion includes the property’s location, affordability, and the location’s nightlife popularity index, all in one search.
 
 
 <img width="1437" alt="Screen Shot 2021-01-08 at 8 07 34 PM" src="https://user-images.githubusercontent.com/38767248/104078640-2a143b00-51ed-11eb-8667-a46b8defd678.png">
@@ -39,18 +39,18 @@ https://cloud.google.com/maps-platform/
 - Maps SDK for Andriod
 - Maps SDK for iOS 
 - Geocoding API 
-https://rapidapi.com/realtymole/api/realty-mole-property-api/details
-- Realty Mole Property API
-https://developers.zomato.com/api
-- Zomato API
+
+- Realty Mole Property API: https://rapidapi.com/realtymole/api/realty-mole-property-api/details
+
+- Zomato API: https://developers.zomato.com/api
 
 
 ## Team Members 
-Macenna Cowen, Andy Hinrichs, Danielle Latortue, & Maryam Tahir 
+Macenna Cowen, Andy Hinrichs, Danielle Latortue, & Maryam Tahir.
 
 ## Team Member Responsibilities/ Contributions 
-Andrew (lead): APIs, JavaScript, & AJAX.
-Danielle: HTML, CSS, JavaScript, APIs.
-Maryam: HTML, CSS, & APIs.
-Macenna: HTML, CSS, APIs, & Presentation.
+- Andrew (lead): APIs, JavaScript, & AJAX.
+- Danielle: HTML, CSS, JavaScript, APIs.
+- Maryam: HTML, CSS, & APIs.
+- Macenna: HTML, CSS, APIs, & Presentation.
 
