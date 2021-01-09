@@ -2,8 +2,7 @@
 ## Group 6 
 Due to Gabe 1.9.2021
 
-## Application Description
-Recreation Maps 
+## Recreation Maps Application Description
 
 The most enjoyable and affordable application for you to find your dream home. 
 
