@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
 
-    const API_KEY = "AIzaSyBsK6ftRatc2anAUk0KLTWAehPJlklUeC8";
+    const API_KEY = "AIzaSyAMcd9JRMXmP6kzd0IIdG5taAIiwzW9ENU";
 
     $("#address").on("change", function () {
         let full_address = $(this).val();
@@ -77,7 +77,7 @@ $(document).ready(function () {
                     "url": "https://realty-mole-property-api.p.rapidapi.com/rentalListings?city=" + city + "&state=" + state,
                     "method": "GET",
                     "headers": {
-                        "x-rapidapi-key": "d59a39dd95msh51e63b60bc85ed6p12a346jsnf1aa477a274b",
+                        "x-rapidapi-key": "eca5c9d1b8mshea68e22fb9aa4e1p13b10cjsnbc959a1cde3e",
                         "x-rapidapi-host": "realty-mole-property-api.p.rapidapi.com"
                     }
                 };
@@ -144,7 +144,7 @@ $(document).ready(function () {
                             var nLat = rentalList[i].longitude;
                             var nLon = rentalList[i].latitude;
 
-                            newMapAPI = "AIzaSyAh0hEtShkpG0MRtiEW4r5R56d3a4om-W4"
+                            newMapAPI = "AIzaSyAMcd9JRMXmP6kzd0IIdG5taAIiwzW9ENU"
 
                             var newMap = $("<iframe>");
                             newMap.attr("src", "https://www.google.com/maps/embed/v1/place?key=" + newMapAPI + "&q=" + nLon + "," + nLat)
