@@ -1,10 +1,8 @@
 # Recreation Maps
-
+## Group 6 
 Due to Gabe 1.9.2021
 
-
-## Group Name: Group 6 
-## Project Description-
+## Application Description
 Recreation Maps 
 
 The most enjoyable and affordable application for you to find your dream home. 
