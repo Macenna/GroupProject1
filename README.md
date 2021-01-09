@@ -11,6 +11,10 @@ The most enjoyable and affordable application for you to find your dream home.
 
 Through the use of three APIs, Google Maps, Realty Mole's property API, Zomato, Recreation Maps allows individuals to find the location of their next home. The search criterion includes the property’s location, affordability, and the location’s nightlife popularity index, all in one search.
 
+
+<img width="1437" alt="Screen Shot 2021-01-08 at 8 07 34 PM" src="https://user-images.githubusercontent.com/38767248/104078640-2a143b00-51ed-11eb-8667-a46b8defd678.png">
+
+
 The implementation of the Google API serves to provide geographical locations for potential homes.
 
 The implementation of the Zomato API serves to provide index quality scores of the cuisine and nightlife, based on the geographic location of the potential homes.
